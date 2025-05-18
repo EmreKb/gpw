@@ -7,7 +7,7 @@ import (
 	"github.com/goccy/go-graphviz"
 	"github.com/goccy/go-graphviz/cgraph"
 
-	"github.com/EmreKb/project-view/pkg/analyzer"
+	"github.com/EmreKb/pgw/pkg/analyzer"
 )
 
 func View(pkg *analyzer.Package, outputPath string) error {

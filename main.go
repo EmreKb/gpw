@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/EmreKb/project-view/pkg/analyzer"
-	"github.com/EmreKb/project-view/pkg/fshelper"
-	"github.com/EmreKb/project-view/pkg/graphview"
+	"github.com/EmreKb/pgw/pkg/analyzer"
+	"github.com/EmreKb/pgw/pkg/fshelper"
+	"github.com/EmreKb/pgw/pkg/graphview"
 )
 
 func main() {

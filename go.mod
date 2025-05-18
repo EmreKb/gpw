@@ -1,4 +1,4 @@
-module github.com/EmreKb/project-view
+module github.com/EmreKb/pgw
 
 go 1.24.3
 

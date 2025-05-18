@@ -5,7 +5,7 @@ import (
 	"go/token"
 	"strings"
 
-	"github.com/EmreKb/project-view/pkg/fshelper"
+	"github.com/EmreKb/pgw/pkg/fshelper"
 )
 
 type Import struct {
