@@ -1,0 +1,1 @@
+go build -o gpw main.go
