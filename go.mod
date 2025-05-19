@@ -1,4 +1,4 @@
-module github.com/EmreKb/pgw
+module github.com/EmreKb/gpw
 
 go 1.24.3
 

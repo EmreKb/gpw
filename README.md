@@ -11,7 +11,7 @@ A command-line tool that generates a visual representation of your project's dir
 ## Installation
 
 ```bash
-go install github.com/EmreKb/pgw@latest
+go install github.com/EmreKb/gpw@latest
 ```
 
 ## Usage
